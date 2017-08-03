@@ -1,7 +1,7 @@
 >视频地址
 http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
 
-### 具有公用数据通信网的计算机网络(**现代网络模型**)
+#### 具有公用数据通信网的计算机网络(**现代网络模型**)
 ![](assets/markdown-img-paste-20170802230249616.png)
 
 ##### 分组交换
@@ -45,7 +45,7 @@ http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
     - 硬件资源不足
 
 
-####第三阶段 标准化
+#### 第三阶段 标准化
 不同计算机、不同厂商数据无法兼容
 
   - 厂商标准 IBM-XXXX
@@ -58,7 +58,7 @@ http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
     - 主流。因为Internet使用他为支持的协议集
 
 
-### 两个网络发展，至关重要阶段
+#### 两个网络发展，至关重要阶段
   -  **局域网**
     - 小规模网络
     - 使用户依赖度增高
@@ -77,6 +77,7 @@ http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
   - 物联网
 
 ## 网络分类
+---
 #### 覆盖范围分类
   - 局域网LAN
     - 几十公里
