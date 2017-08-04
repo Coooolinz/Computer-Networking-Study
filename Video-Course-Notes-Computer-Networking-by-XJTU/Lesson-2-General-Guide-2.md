@@ -2,6 +2,7 @@
 http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
 
 #### 具有公用数据通信网的计算机网络(**现代网络模型**)
+
 ![](assets/markdown-img-paste-20170802230249616.png)
 
 ##### 分组交换
@@ -40,6 +41,7 @@ http://v.youku.com/v_show/id_XNjAzMTc2NDc2.html?spm=a2hzp.8253876.0.0&f=19689969
 - 需要寻址(路由器--路由选择)
   - 接收数据-存储-寻址-寻址完成-发送
 - 不能立即转发
+
 ![](assets/markdown-img-paste-20170803003243411.png)
 
   - 多用户
